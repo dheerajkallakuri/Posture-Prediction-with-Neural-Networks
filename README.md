@@ -1,4 +1,4 @@
-# Posture Classification System
+# Posture Prediction with Neural Networks
 
 ## Overview
 
