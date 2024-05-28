@@ -55,5 +55,3 @@ The Arduino Desktop IDE includes a plotter that we can use to display the sine
 wave graphically. To view it, go to `Tools -> Serial Plotter`. You will see one
 datapoint being logged for each inference cycle, expressed as a number between 0
 and 255.
-
-![Serial Plotter with Nano 33 BLE Sense](../../docs/hello_world_serial_plotter.png)
